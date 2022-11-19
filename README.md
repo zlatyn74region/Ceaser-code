@@ -17,9 +17,12 @@
 
 - Тест 1
 
+![Img alt](https://github.com/zlatyn74region/Ceaser-code/blob/master/images/1.png)
 
 - Тест 2
 
+![Img alt](https://github.com/zlatyn74region/Ceaser-code/blob/master/images/2.png)
 
 - Тест 3
 
+![Img alt](https://github.com/zlatyn74region/Ceaser-code/blob/master/images/3.png)
